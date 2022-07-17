@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johan\\OneDrive\\Dokumente\\code\\14-longest-common-prefix\\Solution\\Solution.csproj": {}
+    "C:\\Users\\johan\\OneDrive\\Dokumente\\code\\14-longest-common-prefix\\Zolution\\Zolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johan\\OneDrive\\Dokumente\\code\\14-longest-common-prefix\\Solution\\Solution.csproj": {
+    "C:\\Users\\johan\\OneDrive\\Dokumente\\code\\14-longest-common-prefix\\Zolution\\Zolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumente\\code\\14-longest-common-prefix\\Solution\\Solution.csproj",
-        "projectName": "Solution",
-        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumente\\code\\14-longest-common-prefix\\Solution\\Solution.csproj",
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumente\\code\\14-longest-common-prefix\\Zolution\\Zolution.csproj",
+        "projectName": "Zolution",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumente\\code\\14-longest-common-prefix\\Zolution\\Zolution.csproj",
         "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumente\\code\\14-longest-common-prefix\\Solution\\obj\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumente\\code\\14-longest-common-prefix\\Zolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config"

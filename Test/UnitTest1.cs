@@ -1,5 +1,5 @@
 namespace test;
-using Solution;
+using Zolution;
 
 public class UnitTest1
 {
@@ -9,9 +9,10 @@ public class UnitTest1
         // Arrange
         Solution solution = new Solution();
         string[] strs = {"dog","racecar","car"};
+        string result = "";
         // Act
     
         // Assert
-        assert.equal(solution.LongestCommonPrefix(strs),"");
+        Assert.Equal(solution.LongestCommonPrefix(strs),result);
     }
 }
